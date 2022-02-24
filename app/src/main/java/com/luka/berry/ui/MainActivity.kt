@@ -1,7 +1,8 @@
-package com.luka.berry
+package com.luka.berry.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.luka.berry.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
