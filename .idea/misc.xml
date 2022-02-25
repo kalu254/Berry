@@ -8,7 +8,9 @@
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1225" />
         <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1225" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_users.xml" value="0.11979166666666667" />
         <entry key="app/src/main/res/layout/item_photo.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_user.xml" value="0.1" />
         <entry key="app/src/main/res/layout/toolbar_home.xml" value="0.1" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_error.xml" value="0.1225" />
       </map>

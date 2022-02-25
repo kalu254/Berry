@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Berry</string>
+    <string name="name">name</string>
+    <string name="username">username</string>
 </resources>

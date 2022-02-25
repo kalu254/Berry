@@ -10,7 +10,7 @@ import kotlinx.parcelize.Parcelize
 @Parcelize
 data class User(
     @PrimaryKey(autoGenerate = true) val id: Int = 0,
-    private val name: String,
-    private val username: String
+     val name: String,
+     val username: String
 ) : Parcelable {
 }
